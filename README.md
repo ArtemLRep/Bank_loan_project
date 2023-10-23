@@ -9,6 +9,6 @@
   I used XGBoost Classifier with hyperparameters tuning using validation data. Accuracy on test data were 77%,
   ROC AUC were 0.64, Precision were 81%.
   <br>
-  Also I made feature selection and their analysis. You can download my solution and sklearn pipeline with model on GitHub page, and
+  Also I made feature selection and their analysis. You can download my solution and sklearn pipeline with model and
   <a href="https://disk.yandex.ru/d/k4YBueG9MIEVUg" target="_blank">dataset </a> from Yandex disk.
   </p>
